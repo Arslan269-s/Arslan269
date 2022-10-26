@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/arslan-hanif-8a829220a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-hanif-8a829220a" height="30" width="40" /></a>
 <a href="https://fb.com/aeslan.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aeslan.s" height="30" width="40" /></a>
 <a href="https://instagram.com/arslan_33102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslan_33102" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arslan official 269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arslan official 269" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCE33tctITNyKao0CpXNw3XA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arslan official 269" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
